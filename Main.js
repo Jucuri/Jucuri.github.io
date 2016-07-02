@@ -219,7 +219,7 @@ function createInstructions() {
 
 	text = document.createElement( 'div' );
 	text.onSelectStart = null;
-	text.innerHTML = '<span style="color:' + theme[0] + ';font-size:40px;">Hello!</span><br /><br /><div><img src="./5.jpg" style="width:150px;height;150px;border-radius:25px;"></div>';
+	text.innerHTML = '<span style="color:' + theme[0] + ';font-size:40px;">Hello!</span><br /><br /><div><img src="https://github.com/Jucuri/Jucuri.github.io/blob/master/5.JPG" style="width:150px;height;150px;border-radius:25px;"></div>';
 	text.style.color = theme[1];
 	text.style.position = 'absolute';
 	text.style.left = '0px';
